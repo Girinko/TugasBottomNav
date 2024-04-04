@@ -1,0 +1,8 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <stroke
+        android:width="3dp"
+    android:color="@color/black"/> <!-- Ganti dengan warna stroke yang Anda inginkan -->
+    <solid android:color="@color/brown"/> <!-- Ganti dengan warna latar belakang yang Anda inginkan -->
+    <corners android:radius="50dp"/> <!-- Sesuaikan dengan sudut bulatan yang Anda inginkan -->
+</shape>
